@@ -1,0 +1,13 @@
+uint32 id
+string name
+float64 confidence
+float64 distance
+float64 thetaleft
+float64 thetaright
+float64[] corners
+float64 x
+float64 y
+float64 theta
+float64 robot_x
+float64 robot_y
+float64 robot_theta
